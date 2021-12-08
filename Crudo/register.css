@@ -1,0 +1,32 @@
+body{ background-color: #ccffe6;
+}
+
+
+
+input[type=text], input[type=password],input[type=email] {   
+    width: 50%;   
+    margin: 6px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid green;   
+    box-sizing: border-box; 
+    border-radius: 10px;  
+} 
+.btn_submit{   
+     background-color: dodgerblue;   
+     width: 15%;  
+     color:        #80ff80;   
+     padding: 15px;  
+     margin: 10px;
+     border-color: dodgerblue;   
+     border-radius: 7px;   
+     margin-left: 12%; 
+     cursor: pointer;
+       
+      } 
+
+      .registered{
+          text-align: center;
+        margin-top: 10%;
+        margin-left: 50%;
+      }
